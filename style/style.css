@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+    font-weight: lighter;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    min-height: 100vh;
+    height: auto;
+    width: 90vw;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.left_section, .right_section{
+    padding: 2em;
+}
+.left_section{
+    background-color: #202430;
+    color: white;
+}
+.right_section{
+    background-color: #e4fbfd;
+}
+
+.full_name, .block_title{
+    font-weight: bold;
+}
+.icon{
+    color: #FF565A;
+}
+.paragraph_title{
+    font-weight: bolder;
+}
+.applicant_avatar_block{
+    text-align: center;
+}
+.avatar_img{
+    width: 90%;
+    height: auto;
+    border-radius: 50%;
+}
+.skills ul{
+    padding: 0;
+    margin: 0;
+}
+.skills li{
+    display: inline-block;
+    background-color: green;
+    border-radius: 1em;
+    padding: 0 0.5em;
+    margin: 0.1em;
+}
+.education li{
+    list-style-type: '◈';
+}
+.git_link{
+    text-decoration: none;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+@media(max-width:1024px){
+    .container{
+        width: 100vw;
+        margin: 0;
+    }
+}
+@media(max-width:700px){
+    .container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
