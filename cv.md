@@ -3,7 +3,8 @@
 
 ## Contacts
 * Email: ***dankorshov@gmail.com***
-* Telegram: ***@Daniil_Korshov***
+* Telegram: ***@Daniel_KI3560***
+* Discord: ***Daniel-KI#3560***
 * Phone: ***+375291731960***
 
 ## Summary
