@@ -19,3 +19,6 @@ Hi, my name is Daniil and I am a junior software developer. I have some experien
 * Spring framework basics
 * Figma
 * Photoshop
+
+## Work experience
+I have been working as a Software Support Specialist since 12.02.2018. I provide technical and technological advice to users on the operation of the software, coordinate the actions of software developers to eliminate the identified errors and take part in developing a website of a company and adding content on it. Also, I have developed special software for calculating the costs of materials and the unit cost of company's products.
