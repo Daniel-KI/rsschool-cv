@@ -1,7 +1,9 @@
 # rsschool-cv
 
-### My CV with information about education, experience etc.
+## My CV with information about education, experience etc.
 
-## Markdown:
+### Markdown:
 https://Daniel-KI.github.io/rsschool-cv/cv
 
+### HTML & CSS
+https://Daniel-KI.github.io/rsschool-cv/
