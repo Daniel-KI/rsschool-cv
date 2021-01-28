@@ -25,3 +25,9 @@ I have been working as a Software Support Specialist since 12.02.2018. I provide
 
 ## Code examples
 Github profile: ***<https://github.com/Daniel-KI>***
+
+## Education
+I have got Bachelor degree at BSUIR «Information Systems and Technologies in business management» with the qualification of «Programmer/Business-analyst». Now I am taking a Master course in «E-business management» at BSUIR.
+
+## English
+My English level is B1(Intermediate). Now I am taking next level English course.
